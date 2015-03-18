@@ -4,8 +4,8 @@
 # Email: ankitkap@buffalo.edu
 # =====================================================================
 
-# Start the clock!
-ptm <- proc.time()
+# Record the start time
+startTime <- system.time()
 
 #folderpath = "/gpfs/courses/cse587/spring2015/data/hw2/data/"
 #folderpath = "/gpfs/user/ankitkap/hw2/verysmall/"
@@ -65,8 +65,8 @@ for(i in 1:length(fileset))
       
       # apply ARIMA model (DO NOT EDIT)
       #fitData_arima = auto.arima(trainData)
-      #fitData_arima = auto.arima(trainData, seasonal = FALSE, stepwise=TRUE, lambda = NULL, approximation = TRUE)
-      fitData_arima = auto.arima(trainData, stepwise=TRUE, lambda = NULL, approximation = TRUE)
+      #fitData_arima = auto.arima(trainData, seasonal = FALSE, lambda = NULL, approximation = TRUE)
+      fitData_arima = auto.arima(trainData, seasonal = FALSE, stepwise=TRUE, lambda = NULL, approximation = TRUE)
       fitData_holtwinters = HoltWinters(trainData, gamma = FALSE)
       fitData_LR = tslm(trainData~trend+season)
       
@@ -164,6 +164,11 @@ cat(sprintf("\nPlot created for the LR model."))
 cat(sprintf("\nJob complete. Time elapsed: "))
 
 
-# Stop the clock
-proc.time() - ptm            
+# Record the endTime
+endTime <- system.time()
+timetaken_seconds = endTime - startTime
+timetaken_minutes = timetaken_seconds/60.0
+
+cat(sprintf("\nJob complete. \n\nTime taken (in seconds): %s", timetaken_seconds[3]))
+cat(sprintf("\nTime taken (in minutes): %s", timetaken_minutes[3]))
 # }            
