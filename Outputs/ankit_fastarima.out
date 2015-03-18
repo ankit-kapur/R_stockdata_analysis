@@ -1,0 +1,197 @@
+Start Time = Wed Mar 18 08:04:53 EDT 2015
+Launching simple example
+Folder: /gpfs/courses/cse587/spring2015/data/hw2/data/
+No. of files: 2970
+Folder: /gpfs/courses/cse587/spring2015/data/hw2/data/
+No. of files: 2970
+Folder: /gpfs/courses/cse587/spring2015/data/hw2/data/
+No. of files: 2970
+Folder: /gpfs/courses/cse587/spring2015/data/hw2/data/
+Folder: /gpfs/courses/cse587/spring2015/data/hw2/data/
+No. of files: 2970
+No. of files: 2970
+Folder: /gpfs/courses/cse587/spring2015/data/hw2/data/
+No. of files: 2970
+Folder: /gpfs/courses/cse587/spring2015/data/hw2/data/
+No. of files: 2970
+Folder: /gpfs/courses/cse587/spring2015/data/hw2/data/
+No. of files: 2970
+Beginning computations...
+
+Beginning computations...
+
+Beginning computations...
+
+Calculations complete.
+Calculations complete.
+Top stocks for the ARIMA model: COCO  APWC  FREE  IKAN  SPU  ELON  VLYWW  MFI  ENZN  MTSL 0.0429102862857658  0.0630886648410769  0.0748033738137716  0.0900000000000001  0.0900000000000001  0.11315609717094  0.113436790470689  0.120000000000006  0.12096462378173  0.12583622799868 
+Top stocks for the ARIMA model: COCO  APWC  FREE  IKAN  SPU  ELON  VLYWW  MFI  ENZN  MTSL 0.0429102862857658  0.0630886648410769  0.0748033738137716  0.0900000000000001  0.0900000000000001  0.11315609717094  0.113436790470689  0.120000000000006  0.12096462378173  0.12583622799868 
+Calculations complete.
+Top stocks for the ARIMA model: COCO  APWC  FREE  IKAN  SPU  ELON  VLYWW  MFI  ENZN  MTSL 0.0429102862857658  0.0630886648410769  0.0748033738137716  0.0900000000000001  0.0900000000000001  0.11315609717094  0.113436790470689  0.120000000000006  0.12096462378173  0.12583622799868 
+Making a plot for the Arima modelpdf 
+  2 
+Making a plot for the Arima modelpdf 
+
+Making a plot for the Arima modelpdf 
+  2 
+  2 
+
+
+Plot created for Arima.
+Plot created for Arima.
+Plot created for Arima.
+Top stocks for the HoltWinters model: EDS  VLYWW  IKAN  JOEZ  APWC  MTSL  COCO  HNSN  TINY  IBCA 0.0602270930678119  0.09  0.0945163102270198  0.0945248004932003  0.0963925582913947  0.110086724836609  0.115658980122067  0.127034131152494  0.134586325959772  0.134818345387194 
+Top stocks for the HoltWinters model: EDS  VLYWW  IKAN  JOEZ  APWC  MTSL  COCO  HNSN  TINY  IBCA 0.0602270930678119  0.09  0.0945163102270198  0.0945248004932003  0.0963925582913947  0.110086724836609  0.115658980122067  0.127034131152494  0.134586325959772  0.134818345387194 
+Top stocks for the HoltWinters model: EDS  VLYWW  IKAN  JOEZ  APWC  MTSL  COCO  HNSN  TINY  IBCA 0.0602270930678119  0.09  0.0945163102270198  0.0945248004932003  0.0963925582913947  0.110086724836609  0.115658980122067  0.127034131152494  0.134586325959772  0.134818345387194 
+Making a plot for the holtwinters modelpdf 
+  2 
+
+Making a plot for the holtwinters modelpdf 
+  2 
+Making a plot for the holtwinters modelpdf 
+
+  2 
+
+Plot created for the Holtwinters model.
+Plot created for the Holtwinters model.
+Top stocks for the LR model: STB  RVSB  GIGA  BAMM  CPRX  TISA  LIOX  TINY  PRTS  BYFC 0.350085995086024  0.397678132678126  0.464299754299754  0.466609336609332  0.491928746928756  0.497628992628996  0.517002457002481  0.522469287469304  0.574410319410301  0.626216216216218 
+Plot created for the Holtwinters model.
+Top stocks for the LR model: STB  RVSB  GIGA  BAMM  CPRX  TISA  LIOX  TINY  PRTS  BYFC 0.350085995086024  0.397678132678126  0.464299754299754  0.466609336609332  0.491928746928756  0.497628992628996  0.517002457002481  0.522469287469304  0.574410319410301  0.626216216216218 
+Top stocks for the LR model: STB  RVSB  GIGA  BAMM  CPRX  TISA  LIOX  TINY  PRTS  BYFC 0.350085995086024  0.397678132678126  0.464299754299754  0.466609336609332  0.491928746928756  0.497628992628996  0.517002457002481  0.522469287469304  0.574410319410301  0.626216216216218 
+Making a plot for the LR modelpdf 
+Making a plot for the LR modelpdf 
+  2 
+  2 
+
+Plot created for the LR model.
+
+Plot created for the LR model.
+Making a plot for the LR modelpdf 
+  2 
+Job complete. Time elapsed: 
+Job complete. 
+
+Job complete. Time elapsed: 
+Job complete. 
+
+Time taken (in seconds): 1800.444
+
+Time taken (in seconds): 1800.441
+Plot created for the LR model.
+Job complete. Time elapsed: 
+Job complete. 
+
+Time taken (in seconds): 1800.446
+Time taken (in minutes): 30.0074333333333Time taken (in minutes): 30.0074Time taken (in minutes): 30.00735Beginning computations...
+
+Calculations complete.
+Top stocks for the ARIMA model: COCO  APWC  FREE  IKAN  SPU  ELON  VLYWW  MFI  ENZN  MTSL 0.0429102862857658  0.0630886648410769  0.0748033738137716  0.0900000000000001  0.0900000000000001  0.11315609717094  0.113436790470689  0.120000000000006  0.12096462378173  0.12583622799868 
+Beginning computations...
+
+Calculations complete.
+Top stocks for the ARIMA model: COCO  APWC  FREE  IKAN  SPU  ELON  VLYWW  MFI  ENZN  MTSL 0.0429102862857658  0.0630886648410769  0.0748033738137716  0.0900000000000001  0.0900000000000001  0.11315609717094  0.113436790470689  0.120000000000006  0.12096462378173  0.12583622799868 
+Making a plot for the Arima modelpdf 
+  2 
+
+Plot created for Arima.
+Top stocks for the HoltWinters model: EDS  VLYWW  IKAN  JOEZ  APWC  MTSL  COCO  HNSN  TINY  IBCA 0.0602270930678119  0.09  0.0945163102270198  0.0945248004932003  0.0963925582913947  0.110086724836609  0.115658980122067  0.127034131152494  0.134586325959772  0.134818345387194 
+Making a plot for the holtwinters modelpdf 
+  2 
+
+Plot created for the Holtwinters model.
+Top stocks for the LR model: STB  RVSB  GIGA  BAMM  CPRX  TISA  LIOX  TINY  PRTS  BYFC 0.350085995086024  0.397678132678126  0.464299754299754  0.466609336609332  0.491928746928756  0.497628992628996  0.517002457002481  0.522469287469304  0.574410319410301  0.626216216216218 
+Making a plot for the LR modelpdf 
+  2 
+
+Plot created for the LR model.
+Job complete. Time elapsed: 
+Job complete. 
+
+Time taken (in seconds): 1801.48
+Time taken (in minutes): 30.0246666666667Making a plot for the Arima modelpdf 
+  2 
+
+Plot created for Arima.
+Top stocks for the HoltWinters model: EDS  VLYWW  IKAN  JOEZ  APWC  MTSL  COCO  HNSN  TINY  IBCA 0.0602270930678119  0.09  0.0945163102270198  0.0945248004932003  0.0963925582913947  0.110086724836609  0.115658980122067  0.127034131152494  0.134586325959772  0.134818345387194 
+Making a plot for the holtwinters modelpdf 
+  2 
+
+Plot created for the Holtwinters model.
+Top stocks for the LR model: STB  RVSB  GIGA  BAMM  CPRX  TISA  LIOX  TINY  PRTS  BYFC 0.350085995086024  0.397678132678126  0.464299754299754  0.466609336609332  0.491928746928756  0.497628992628996  0.517002457002481  0.522469287469304  0.574410319410301  0.626216216216218 
+Making a plot for the LR modelpdf 
+  2 
+
+Plot created for the LR model.
+Job complete. Time elapsed: 
+Job complete. 
+
+Time taken (in seconds): 1801.547
+Time taken (in minutes): 30.0257833333333Beginning computations...
+
+Calculations complete.
+Top stocks for the ARIMA model: COCO  APWC  FREE  IKAN  SPU  ELON  VLYWW  MFI  ENZN  MTSL 0.0429102862857658  0.0630886648410769  0.0748033738137716  0.0900000000000001  0.0900000000000001  0.11315609717094  0.113436790470689  0.120000000000006  0.12096462378173  0.12583622799868 
+Beginning computations...
+
+Calculations complete.
+Top stocks for the ARIMA model: COCO  APWC  FREE  IKAN  SPU  ELON  VLYWW  MFI  ENZN  MTSL 0.0429102862857658  0.0630886648410769  0.0748033738137716  0.0900000000000001  0.0900000000000001  0.11315609717094  0.113436790470689  0.120000000000006  0.12096462378173  0.12583622799868 
+Making a plot for the Arima modelpdf 
+  2 
+
+Plot created for Arima.
+Top stocks for the HoltWinters model: EDS  VLYWW  IKAN  JOEZ  APWC  MTSL  COCO  HNSN  TINY  IBCA 0.0602270930678119  0.09  0.0945163102270198  0.0945248004932003  0.0963925582913947  0.110086724836609  0.115658980122067  0.127034131152494  0.134586325959772  0.134818345387194 
+Making a plot for the Arima modelpdf 
+  2 
+
+Plot created for Arima.
+Top stocks for the HoltWinters model: EDS  VLYWW  IKAN  JOEZ  APWC  MTSL  COCO  HNSN  TINY  IBCA 0.0602270930678119  0.09  0.0945163102270198  0.0945248004932003  0.0963925582913947  0.110086724836609  0.115658980122067  0.127034131152494  0.134586325959772  0.134818345387194 
+Making a plot for the holtwinters modelpdf 
+  2 
+
+Plot created for the Holtwinters model.
+Top stocks for the LR model: STB  RVSB  GIGA  BAMM  CPRX  TISA  LIOX  TINY  PRTS  BYFC 0.350085995086024  0.397678132678126  0.464299754299754  0.466609336609332  0.491928746928756  0.497628992628996  0.517002457002481  0.522469287469304  0.574410319410301  0.626216216216218 
+Making a plot for the holtwinters modelpdf 
+  2 
+
+Plot created for the Holtwinters model.
+Top stocks for the LR model: STB  RVSB  GIGA  BAMM  CPRX  TISA  LIOX  TINY  PRTS  BYFC 0.350085995086024  0.397678132678126  0.464299754299754  0.466609336609332  0.491928746928756  0.497628992628996  0.517002457002481  0.522469287469304  0.574410319410301  0.626216216216218 
+Making a plot for the LR modelpdf 
+  2 
+
+Plot created for the LR model.
+Job complete. Time elapsed: 
+Job complete. 
+
+Time taken (in seconds): 1802.043
+Making a plot for the LR modelpdf 
+  2 
+
+Plot created for the LR model.
+Job complete. Time elapsed: 
+Job complete. 
+
+Time taken (in seconds): 1802.049
+Time taken (in minutes): 30.03405Time taken (in minutes): 30.03415Beginning computations...
+
+Calculations complete.
+Top stocks for the ARIMA model: COCO  APWC  FREE  IKAN  SPU  ELON  VLYWW  MFI  ENZN  MTSL 0.0429102862857658  0.0630886648410769  0.0748033738137716  0.0900000000000001  0.0900000000000001  0.11315609717094  0.113436790470689  0.120000000000006  0.12096462378173  0.12583622799868 
+Making a plot for the Arima modelpdf 
+  2 
+
+Plot created for Arima.
+Top stocks for the HoltWinters model: EDS  VLYWW  IKAN  JOEZ  APWC  MTSL  COCO  HNSN  TINY  IBCA 0.0602270930678119  0.09  0.0945163102270198  0.0945248004932003  0.0963925582913947  0.110086724836609  0.115658980122067  0.127034131152494  0.134586325959772  0.134818345387194 
+Making a plot for the holtwinters modelpdf 
+  2 
+
+Plot created for the Holtwinters model.
+Top stocks for the LR model: STB  RVSB  GIGA  BAMM  CPRX  TISA  LIOX  TINY  PRTS  BYFC 0.350085995086024  0.397678132678126  0.464299754299754  0.466609336609332  0.491928746928756  0.497628992628996  0.517002457002481  0.522469287469304  0.574410319410301  0.626216216216218 
+Making a plot for the LR modelpdf 
+  2 
+
+Plot created for the LR model.
+Job complete. Time elapsed: 
+Job complete. 
+
+Time taken (in seconds): 1803.944
+Time taken (in minutes): 30.0657333333333All done.
+End Time = Wed Mar 18 08:39:19 EDT 2015
+Elapsed Time = 2066 seconds
